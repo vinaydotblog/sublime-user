@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Topping gingerbread chocolate jelly beans jelly beans faworki jelly dragée. Tiramisu tart gummies sweet roll. Topping caramels sesame snaps jelly beans danish chocolate lemon drops tart sweet. Donut cotton candy faworki croissant sweet roll. Toffee caramels powder icing sesame snaps marshmallow muffin carrot cake. Topping pie marzipan sesame snaps. Pastry gummi bears cotton candy cupcake jelly chocolate bar oat cake pudding. Faworki chocolate cake applicake danish. Cupcake marzipan donut cookie chocolate bar macaroon gingerbread. Cookie applicake lollipop. Cotton candy donut chocolate bar. Candy canes oat cake chupa chups.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cup</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

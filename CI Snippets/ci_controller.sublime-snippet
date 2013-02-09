@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+/**
+ * Possibly Every new ideas will be dropped here...
+ * 
+ * @package  Boiler
+ * @team vinnizworld
+ * @uri Boiler/${1:ideas}
+ */
+class ${1:Ideas} extends CI_Controller {
+
+	function __construct()
+	{
+		parent::__construct();
+		\$this->template->layout = 'bootstrap';
+	}
+
+	/**
+	 * List of all ${1:ideas}
+	 * @return [type]
+	 */
+	public function index()
+	{
+		${2}
+		\$this->template->view();
+	}
+}
+
+/* End of file ${1:ideas}.php */
+/* Location: ./application/controllers/${1:ideas}.php */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ci_controller</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

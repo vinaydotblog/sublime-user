@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"ZenCoding",
+		"CodeIgniter Snippets",
+		"LiveReload"
+	],
+	"theme": "Soda Light.sublime-theme"
+}

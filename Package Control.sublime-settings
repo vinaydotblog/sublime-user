@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"CodeIgniter Snippets",
+		"CoffeeScript",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"Laravel-Blade",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"SCSS",
+		"Stylus",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets",
+		"View In Browser",
+		"ZenCoding"
+	]
+}

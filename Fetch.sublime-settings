@@ -1,0 +1,19 @@
+{
+	"files":
+	{
+		"Backbone - dev": "http://backbonejs.org/backbone.js",
+		"Backbone - min": "http://backbonejs.org/backbone-min.js",
+		"IDB Store": "https://raw.github.com/jensarps/IDBWrapper/master/IDBStore.js",
+		"Underscore JS - dev": "http://underscorejs.org/underscore.js",
+		"Underscore JS - min": "http://underscorejs.org/underscore-min.js",
+		"jQuery": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js",
+		"jQuery 1.7.1": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+		"jQuery UI": "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js",
+		"jquery templating": "http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js",
+		"jquery templating min": "http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+	}
+}
