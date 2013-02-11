@@ -4,9 +4,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"ZenCoding",
-		"CodeIgniter Snippets",
-		"LiveReload"
+		"ZenCoding"
 	],
 	"theme": "Soda Light.sublime-theme"
 }

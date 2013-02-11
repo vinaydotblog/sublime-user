@@ -3,21 +3,19 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"CodeIgniter Snippets",
 		"CoffeeScript",
 		"DocBlockr",
 		"Emmet",
+		"Function Name Display",
 		"JsFormat",
 		"Laravel-Blade",
-		"LiveReload",
 		"Nettuts+ Fetch",
 		"Package Control",
-		"PlainTasks",
+		"PHP Syntax Checker",
+		"Sass",
 		"SCSS",
 		"Stylus",
 		"Theme - Soda",
-		"Twitter Bootstrap Snippets",
-		"View In Browser",
 		"ZenCoding"
 	]
 }
